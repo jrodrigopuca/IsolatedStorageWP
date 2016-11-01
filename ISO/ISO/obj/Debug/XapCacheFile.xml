@@ -1,0 +1,12 @@
+﻿<xapCache source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Bin\Debug\ISO_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11/1/2016 1:36:12 AM">
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\obj\Debug\ISO.dll" archivePath="ISO.dll" lastWriteTime="11/1/2016 1:36:11 AM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="10/31/2016 11:22:05 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10/31/2016 11:22:05 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="10/31/2016 11:22:05 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="10/31/2016 11:22:05 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="10/31/2016 11:22:05 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/31/2016 11:22:25 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10/31/2016 11:22:05 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10/31/2016 11:22:05 PM" />
+  <file source="c:\users\r\documents\visual studio 2015\Projects\ISO\ISO\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/31/2016 11:22:25 PM" />
+</xapCache>
